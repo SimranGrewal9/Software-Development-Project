@@ -1,5 +1,3 @@
-Day 2  files and documentation
-
 Day 2: Software Design & Architecture
 
 Objective:
