@@ -1,0 +1,11 @@
+2026-06-09 15:31:40,816 - INFO - Summary report generated successfully.
+2026-06-09 15:31:40,845 - INFO - Summary report generated successfully.
+2026-06-09 15:31:44,472 - INFO - Summary report generated successfully.
+2026-06-09 15:32:34,909 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-09 15:32:34,917 - WARNING - No such comm: e00f061f-2eb1-477d-865b-e851a330834b
+2026-06-09 15:33:43,408 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-09 15:33:43,432 - WARNING - No such comm: dc43590d-4930-434b-91cf-612a56d37497
+2026-06-09 16:24:25,543 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-09 16:24:25,566 - WARNING - No such comm: 14cd7d50-7186-4c8f-a1ad-5c8614265fda
+2026-06-09 16:34:30,358 - ERROR - No such comm target registered: jupyter.widget.control
+2026-06-09 16:34:30,386 - WARNING - No such comm: 3bac621b-667c-4523-9b9b-818dda60bb0f
